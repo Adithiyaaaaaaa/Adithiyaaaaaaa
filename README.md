@@ -1,126 +1,50 @@
-<!-- Typing effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF99&width=900&lines=Hey%2C+I'm+Adithiyaa+JP+%7C+Arch+Linux+User;Full-stack+%7C+AI+%7C+Automation+%7C+Cybersecurity;Turning+life+into+an+RPG+one+project+at+a+time!)](https://git.io/typing-svg)
+# Adithiyaa JP
 
----
+I build developer tools, explore local AI systems, and develop web and Android applications. Alongside project work, I practice data structures and algorithms on LeetCode.
 
-## About Me  
-Hi!  
-I’m **Adithiyaa JP**, a **B.Tech CSE (AI & DS)** student at **Vel Tech University**, building tools that are **functional**, **terminal-aesthetic**, and **gamified**.
+[GitHub](https://github.com/Adithiyaaaaaaa) · [LeetCode](https://leetcode.com/u/jpadithiyaaschool/)
 
-Role: Full-Stack Developer | AI Explorer | Cybersecurity Learner  
-OS: Arch Linux — minimal, clean, riced  
-Vibe: Anime x Terminal x Tech x Kaizen  
-Currently Building: **Kaiden Academy** — a gamified real-life simulation learning system
+## Selected projects
 
-> Progress Every Day. Discipline Forever.
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| [SENTINEL](https://github.com/Adithiyaaaaaaa/sentinel) | Local-first repository analysis with evidence-linked findings, optional AI explanations, and semantic search. | Python, FastAPI, Next.js, Ollama |
+| [NullBrowser](https://github.com/Adithiyaaaaaaa/nullbrowser-) | Android browser prototype with local search, tracker blocking, biometric locking, and session cleanup. | Kotlin, Android WebView, Room |
+| [Kaiden Academy](https://github.com/Adithiyaaaaaaa/KaidenAcademy) | An evolving learning platform combining coding challenges, skill progression, and game-inspired rewards. | React, TypeScript, Vite |
+| [RAG Crew Profiler](https://github.com/Adithiyaaaaaaa/Rag_Crew_Profiler) | Experiments in multi-agent profiling, retrieval, rating prediction, and review generation. | Python, CrewAI, ChromaDB |
 
----
+<details>
+<summary>Additional projects</summary>
 
-# Tech Stack & Tools
+- [Bank Management System](https://github.com/Adithiyaaaaaaa/BankManagementSystem): a browser-local banking demonstration with transaction management, dashboards, and charts.
+- [NeetCode Logs](https://github.com/Adithiyaaaaaaa/neetcodelogs): algorithm practice and problem submissions.
+- [Snake](https://github.com/Adithiyaaaaaaa/Snake-game) and [Pong](https://github.com/Adithiyaaaaaaa/pong-game): Python game projects.
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+</details>
 
-### Frameworks, Tools & Platforms
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+[View all repositories](https://github.com/Adithiyaaaaaaa?tab=repositories)
 
----
+## LeetCode
 
-# Featured Projects
+**167 problems solved:** 68 easy, 69 medium, and 30 hard.
 
-### [Kaiden Academy](https://github.com/Adithiyaaaaaaa/KaidenAcademy)
-A React + TypeScript gamified learning platform simulating campus life with coding challenges, health tracking, and quests.
+*Verified on 28 October 2026. The statistics card updates independently.*
 
-### [AIT](https://github.com/Adithiyaaaaaaa/AIT)
-Python-based automation & AI experiments.
+[![LeetCode statistics and submission history](https://leetcard.jacoblin.cool/jpadithiyaaschool?theme=light&font=Roboto&ext=heatmap)](https://leetcode.com/u/jpadithiyaaschool/)
 
-### [Bank Management System](https://github.com/Adithiyaaaaaaa/BankManagementSystem)
-Complete Java OOP & banking logic system.
+[View LeetCode profile](https://leetcode.com/u/jpadithiyaaschool/) · [View NeetCode submissions](https://github.com/Adithiyaaaaaaa/neetcodelogs)
 
-### [Fitness Checker](https://github.com/Adithiyaaaaaaa/fitness-checker)
-Tracks food intake, workouts, cardio, and weekly physique.
+## Technologies
 
-### [Oblivion Browser](https://github.com/Adithiyaaaaaaa)
-Dark, terminal-themed Electron.js browser concept.
+| Area | Tools and languages |
+| :--- | :--- |
+| Programming | Python, TypeScript, JavaScript, Kotlin, Java |
+| Web and application development | React, Next.js, FastAPI, Android |
+| AI and retrieval | Ollama, CrewAI, ChromaDB |
+| Development tools | Git, Linux, Docker |
 
-### Cybersecurity Projects  
-Early ethical hacking & defense scripts.
+## GitHub activity
 
-### Games  
-Pong Game | Snake Game written in Python.
+My repositories cover developer tooling, AI experiments, Android development, and interactive learning applications.
 
----
-
-# LeetCode Analytics
-[![LeetCode Stats](https://leetcard.jacoblin.cool/jpadithiyaaschool?theme=dark&font=Fira%20Code&ext=contest&border=0)](https://leetcode.com/u/jpadithiyaaschool/)
-
-### LeetCode Heatmap (Solved per Day)
-![LeetCode Heatmap](https://ssr-contributions-svg.vercel.app/_/jpadithiyaaschool?chart=calendar)
-
-### LeetCode Solved Count Graph
-![LeetCode Graph](https://leetcard.jacoblin.cool/jpadithiyaaschool?ext=heatmap)
-
----
-
-# GitHub Charts & Stats
-
-### GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adithiyaaaaaaa&show_icons=true&theme=tokyonight&hide_border=true)
-
-### GitHub Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adithiyaaaaaaa&theme=tokyonight&hide_border=true)
-
-### Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithiyaaaaaaa&layout=compact&theme=tokyonight&hide_border=true)
-
-### Contribution Graph  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adithiyaaaaaaa&theme=tokyo-night)
-
----
-
-# GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Adithiyaaaaaaa&theme=tokyonight&no-frame=true&margin-w=10)
-
----
-
-# Contribution Snake  
-![Snake animation](https://raw.githubusercontent.com/harsha-d-kyousuke/Adithiyaaaaaaa/output/github-contribution-grid-snake-dark.svg)
-
----
-
-# Followers & Stars  
-![GitHub Followers](https://img.shields.io/github/followers/Adithiyaaaaaaa?label=Followers&style=flat)
-![GitHub Stars](https://img.shields.io/github/stars/Adithiyaaaaaaa?affiliations=OWNER&style=flat)
-
----
-
-# Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithiyaa-jp-a51953303/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Adithiyaaaaaaa)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/jpadithiyaaschool/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jpadithiyaaschool@gmail.com)
-
----
-
-# Quote  
-*"Turning life into an RPG, one project at a time."*  
-**— Adithiyaa JP**
+[Recent activity](https://github.com/Adithiyaaaaaaa?tab=overview) · [All repositories](https://github.com/Adithiyaaaaaaa?tab=repositories) · [SENTINEL development](https://github.com/Adithiyaaaaaaa/sentinel/commits/main/)
