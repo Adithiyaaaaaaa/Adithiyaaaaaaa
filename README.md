@@ -1,4 +1,4 @@
-# Adithiyaa JP
+[![Adithiyaa JP](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1500&color=00FF99&width=500&height=55&lines=Adithiyaa+JP)](https://github.com/Adithiyaaaaaaa)
 
 I build developer tools, explore local AI systems, and develop web and Android applications. Alongside project work, I practice data structures and algorithms on LeetCode.
 
